@@ -53,10 +53,10 @@
 
 
 ## Output:
+### Name: RAGAVENDRAN A
+### Register Number: 212222230114
 
-
-### Name:
-### Register Number: 
+![239697294-a5290ff5-8e49-471f-9117-8a992cf9ac45](https://github.com/Sakthimurugavel/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118707246/22c088ec-0904-4e68-8833-68bd00867fe9)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
